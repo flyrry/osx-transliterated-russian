@@ -10,8 +10,8 @@ ch | ч
 sh | ш
 sch/shh | щ
 ye/je | э
-yo | ё
-ja | я
-ju | ю
+yo/jo | ё
+ya/ja | я
+yu/ju | ю
 ' | ь
 '' | ъ
